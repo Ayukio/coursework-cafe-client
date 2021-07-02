@@ -15,11 +15,3 @@ Information system of the cafe:
 * CSS
 * Material-UI, Bootstrap
 * React-validation
-
-# How To Run Locally
-* clone repo;
-* install all dependencies with:
- ` npm install `
-* run in the dev mode with:
-` npm start `
-
