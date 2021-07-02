@@ -8,7 +8,7 @@ Information system of the cafe:
 * CRUD data operations, sorting, filtering by criterion
 * pseudo shopping cart
 
-![]()
+![](https://github.com/Ayukio/coursework-cafe-client/blob/master/cafe.gif)
 
 # Stack
 * React v16.11
